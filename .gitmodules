@@ -1,0 +1,6 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/extrakto"]
+	path = plugins/extrakto
+	url = https://github.com/laktak/extrakto.git
